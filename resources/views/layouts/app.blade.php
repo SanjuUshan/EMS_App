@@ -46,7 +46,12 @@
             height: 100%;
             margin: 0;
             padding: 0;
-        } */
+        } */   wire::after
+
+
+
+
+
 
         .page-wrapper {
             flex: 1;
